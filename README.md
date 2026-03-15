@@ -36,7 +36,7 @@ o Bookings by status (bar chart)
 . No data quality issues in final output
 
 ## Architecture
-![Architecture]()
+![Architecture](Architecture.png)
 
 ## Dashboard
 ![Dashboard](Dashboard.png)
