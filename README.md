@@ -1,4 +1,3 @@
-# Dashboard-Snowflake-Hotel-Analysis
 
 Business Requirements Document - Hotel
 Analytics Dashboard
@@ -35,5 +34,3 @@ o Bookings by status (bar chart)
 . Correct KPIs
 . Dashboard easy to interpret
 . No data quality issues in final output
-
-    ![alt text](Architecture.png) ![alt text](Dashboard.png)
