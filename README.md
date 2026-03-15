@@ -34,3 +34,9 @@ o Bookings by status (bar chart)
 . Correct KPIs
 . Dashboard easy to interpret
 . No data quality issues in final output
+
+## Architecture
+![Architecture]()
+
+## Dashboard
+![Dashboard](Dashboard.png)
